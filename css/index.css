@@ -1,0 +1,79 @@
+table {
+  table-layout:fixed;
+}
+
+thead th:nth-of-type(1) {
+    width: 7.2%;
+}
+
+thead th:nth-of-type(2) {
+    width: 10%;
+}
+
+thead th:nth-of-type(4) {
+    width: 18.8%;
+}
+
+tbody tr:nth-of-type(3) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(4) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(7) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(8) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(11) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(12) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(15) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(16) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(19) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(20) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(23) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(24) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(27) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(28) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(31) td {
+    background-color: #ddd;
+}
+
+tbody tr:nth-of-type(32) td {
+    background-color: #ddd;
+}
